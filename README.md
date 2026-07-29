@@ -1,0 +1,2 @@
+# NarutoStormGeneration
+NarutoStormGeneration Early recomp

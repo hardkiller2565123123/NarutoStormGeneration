@@ -1,0 +1,37 @@
+# Function boundaries missed by automatic discovery in the retail XEX.
+# Ends are exclusive and verified against the pristine XenonRecomp output.
+
+[functions]
+"0x8239C420" = { end = 0x8239C490 }
+"0x823FE680" = { end = 0x823FE688 }
+"0x823FE688" = { end = 0x823FE690 }
+"0x823FE690" = { end = 0x823FE698 }
+"0x823FE698" = { end = 0x823FE6A0 }
+"0x823FE6A0" = { end = 0x823FE6A8 }
+"0x823FE6B0" = { end = 0x823FE6B8 }
+"0x823FE6B8" = { end = 0x823FE6C0 }
+"0x823FE6C0" = { end = 0x823FE718 }
+"0x823FE718" = { end = 0x823FE720 }
+"0x82403CF0" = { end = 0x82403CF8 }
+"0x82403D00" = { end = 0x82403D08 }
+"0x82403D08" = { end = 0x82403D10 }
+"0x82403D10" = { end = 0x82403D18 }
+"0x82403D18" = { end = 0x82403D20 }
+"0x82403D20" = { end = 0x82403D28 }
+"0x82403D28" = { end = 0x82403E20 }
+"0x824050A8" = { end = 0x824050B0 }
+"0x824050B0" = { end = 0x824050B8 }
+"0x824050B8" = { end = 0x824050C0 }
+"0x824050C0" = { end = 0x824051BC }
+"0x824051BC" = { end = 0x824051C0 }
+"0x824052E0" = { end = 0x824052E8 }
+"0x82405308" = { end = 0x82405310 }
+"0x82405330" = { end = 0x82405338 }
+"0x82463DB0" = { end = 0x82463DC0 }
+"0x824646B0" = { end = 0x824646C0 }
+"0x82475418" = { end = 0x82475420 }
+"0x82514B10" = { end = 0x82514DE0 }
+"0x827DFE98" = { end = 0x827DFFB0 }
+"0x82809070" = { end = 0x82809088 }
+"0x82809B98" = { end = 0x82809BB4 }
+"0x82899070" = { end = 0x82899178 }

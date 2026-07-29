@@ -1,0 +1,5 @@
+#include "resource.h"
+
+// Embed the launcher artwork and application icon into the same game EXE.
+IDI_APP_ICON ICON "../assets/app.ico"
+IDR_LAUNCHER_BACKGROUND RCDATA "launcher_background.png"

@@ -20,7 +20,7 @@ Example folder layout:
 Game Folder/
 ├── NarutoStormGeneration.exe
 ├── default.xex
-├── game.xex
+├── Data
 └── ...
 ```
 
